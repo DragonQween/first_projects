@@ -39,7 +39,6 @@ class SimpleTextEditor:
     def quit_confirm(self):
         if messagebox.askokcancel("Salir", "¿Estás seguro de que deseas salir?"):
             self.root.destroy()
-            
 
 root = tk.Tk()
 root.geometry("700x500")
