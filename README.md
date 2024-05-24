@@ -4,4 +4,4 @@ This repository contains the first projects I worked on during my apprenticeship
 
 ## Here we go:
 ### Calculadora
-![https://mouredev.com](https://raw.githubusercontent.com/dragonqween/first_projects/main/media/calculadora_banner.png)
+![https://github.com/DragonQween](https://raw.githubusercontent.com/dragonqween/first_projects/main/media/calculadora_banner.png)
