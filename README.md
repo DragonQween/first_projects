@@ -4,3 +4,4 @@ This repository contains the first projects I worked on during my apprenticeship
 
 ## Here we go:
 ### Calculadora
+!(https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png)
